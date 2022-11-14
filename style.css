@@ -1,0 +1,20 @@
+.Items{
+    color: blueviolet;
+    }
+    
+    /* inheritance */
+    #my_ltems{
+      color: green;
+      
+      
+    }
+    
+    .items-dislike{
+      margin-top: 40px;
+      background-color: rgb(151, 37, 151);
+      width: 30%;
+      font-size: 20px;
+      font-family: 'Times New Roman', Times, serif;
+    }
+
+    
